@@ -20,15 +20,15 @@ const router = createBrowserRouter([
         element: <Projects />
       },
       {
-        path: '/countdown',
+        path: 'countdown',
         element: <Countdown />
       },
       {
-        path: '/modal',
+        path: 'modal',
         element: <Modal />
       },
       {
-        path: '/imageslider',
+        path: 'imageslider',
         element: <ImageSlider />
       },
     ]
